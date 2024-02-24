@@ -1,0 +1,30 @@
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.AssemblyReference.cache
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.pdb
+D:\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.dll
+D:\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.pdb
+D:\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.AssemblyReference.cache
+D:\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.CoreCompileInputs.cache
+D:\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.dll
+D:\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.AssemblyReference.cache
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.pdb
+D:\Proyect\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.dll
+D:\Proyect\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.pdb
+D:\Proyect\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.AssemblyReference.cache
+D:\Proyect\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.CoreCompileInputs.cache
+D:\Proyect\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.dll
+D:\Proyect\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.Entity\bin\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.AssemblyReference.cache
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.Entity\obj\Debug\HotelHome.Entity.pdb

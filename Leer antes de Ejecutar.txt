@@ -1,0 +1,5 @@
+usuario=admin
+password=admin
+
+Para  ver lor Reportes  Debera Instalar
+el Crystar Report Ya que lo realizamos con ese motor

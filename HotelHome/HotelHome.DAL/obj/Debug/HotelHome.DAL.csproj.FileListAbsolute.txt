@@ -1,0 +1,81 @@
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.dll
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.pdb
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CopyComplete
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.dll
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.pdb
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.AssemblyReference.cache
+D:\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.dll
+D:\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.pdb
+D:\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.dll
+D:\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.pdb
+D:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.AssemblyReference.cache
+D:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CoreCompileInputs.cache
+D:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CopyComplete
+D:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.dll
+D:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.pdb
+C:\Proyecto\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.dll
+C:\Proyecto\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.pdb
+C:\Proyecto\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.dll
+C:\Proyecto\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.pdb
+C:\Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.AssemblyReference.cache
+C:\Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CoreCompileInputs.cache
+C:\Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CopyComplete
+C:\Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.dll
+C:\Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.pdb
+C:\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.dll
+C:\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.pdb
+C:\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.dll
+C:\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.pdb
+C:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.AssemblyReference.cache
+C:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CoreCompileInputs.cache
+C:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CopyComplete
+C:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.dll
+C:\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.dll
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.AssemblyReference.cache
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CopyComplete
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.dll
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.pdb
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.dll
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.pdb
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.dll
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.pdb
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.AssemblyReference.cache
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CoreCompileInputs.cache
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CopyComplete
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.dll
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.pdb
+C:\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.dll
+C:\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.pdb
+C:\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.dll
+C:\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.pdb
+C:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.AssemblyReference.cache
+C:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CoreCompileInputs.cache
+C:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CopyComplete
+C:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.dll
+C:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.pdb
+D:\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.dll
+D:\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.pdb
+D:\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.dll
+D:\Proyect\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.pdb
+D:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.AssemblyReference.cache
+D:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CoreCompileInputs.cache
+D:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CopyComplete
+D:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.dll
+D:\Proyect\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.DAL.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.DAL\bin\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.AssemblyReference.cache
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.csproj.CopyComplete
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.DAL\obj\Debug\HotelHome.DAL.pdb

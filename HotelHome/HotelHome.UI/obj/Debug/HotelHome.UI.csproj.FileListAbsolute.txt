@@ -1,0 +1,496 @@
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Form1.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Form1.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Ayuda.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Categorias.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Clientes.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepcion.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Salida.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.RecervarHabitacion.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearPiso.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\Users\FRANCESCO\Desktop\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Ayuda.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepcion.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.RecervarHabitacion.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Salida.resources
+C:\Users\Kenyer\Downloads\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+C:\Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Ayuda.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+C:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Ayuda.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Ayuda.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\Users\Kenyer\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Ayuda.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\Users\KS\Downloads\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+C:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Ayuda.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+D:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+D:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+D:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+D:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+D:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+D:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+D:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+D:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+D:\Proyect\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.HabitacionesOcupadas.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Busqueda_de_Reservas.resources
+D:\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Consultas.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Consultas.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Busqueda_de_Reservas.resources
+C:\Users\FRANCESCO\Desktop\Proyect\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.HabitacionesOcupadas.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Consultas.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Busqueda_de_Reservas.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.HabitacionesOcupadas.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones_Mantenimiento.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Buscar_Categoria.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Buscar_Status.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.DetalleReserva.resources
+D:\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarHabitaciones.resources
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.exe
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.Shared.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\ShockwaveFlashObjects.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\stdole.dll
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.pdb
+D:\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.exe.config
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.exe
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\stdole.dll
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.exe.config
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Buscar_Categoria.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Buscar_Status.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarHabitaciones.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Consultas.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Busqueda_de_Reservas.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.DetalleReserva.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones_Mantenimiento.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.HabitacionesOcupadas.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearRool.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarUsuarios.resources
+C:\Users\Kenyer\Downloads\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.InicioLogin.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.exe
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\stdole.dll
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.pdb
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.exe.config
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Buscar_Categoria.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Buscar_Status.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarHabitaciones.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarUsuarios.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Consultas.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Busqueda_de_Reservas.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearRool.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.DetalleReserva.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones_Mantenimiento.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.HabitacionesOcupadas.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.InicioLogin.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+C:\Users\FRANCESCO\Desktop\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.AssemblyReference.cache
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Buscar_Categoria.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Buscar_Status.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarHabitaciones.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarUsuarios.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Consultas.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.BuscarClientes.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Busqueda_de_Reservas.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Cliente.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearCategoria.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearHabiacion.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.CrearRool.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.DetalleReserva.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones_Mantenimiento.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.HabitacionesOcupadas.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Home.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Habitaciones.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.InicioLogin.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Piso.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Properties.Resources.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Recepciones.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Reservar.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.StatusRoom.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.Usuario.resources
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.GenerateResource.cache
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CoreCompileInputs.cache
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.exe
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.pdb
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe.config
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.exe
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.UI.pdb
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.exe
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.Shared.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\ShockwaveFlashObjects.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\stdole.dll
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.BLL.pdb
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Entity.pdb
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.pdb
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.Reportes.exe.config
+E:\Version final Proyecto\HotelHome\HotelHome.UI\bin\Debug\HotelHome.DAL.pdb
+E:\Version final Proyecto\HotelHome\HotelHome.UI\obj\Debug\HotelHome.UI.csproj.CopyComplete
